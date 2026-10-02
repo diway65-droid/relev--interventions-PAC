@@ -1,0 +1,17 @@
+{
+  "name": "Relevés PAC – Adour Eco Énergies",
+  "short_name": "Relevés PAC",
+  "description": "Saisie des valeurs relevées sur pompe à chaleur",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbeceb",
+  "theme_color": "#b8372b",
+  "icons": [
+    {"src": "android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
